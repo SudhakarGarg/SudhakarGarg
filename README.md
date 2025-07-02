@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Sudhakar Garg, a 3rd-year student at NIT Jalandhar with a strong passion for building a career in software development. I love creating real-time web apps, exploring full-stack technologies, and contributing to impactful tech projects.
+I’m Sudhakar Garg, a final-year student at NIT Jalandhar with a strong passion for building a career in software development. I love creating real-time web apps, exploring full-stack technologies, and contributing to impactful tech projects.
 
 
 ## 🌐 Socials:
